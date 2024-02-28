@@ -1,0 +1,28 @@
+button {
+    display: flex;
+    border-radius: 15px;
+
+    margin: 0 auto;
+    border-color: #8E7AB5;
+    box-shadow: #B784B7;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+
+    display: flex;
+    justify-content: center;
+
+    align-items: center;
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+button:hover {
+    color: #B784B7;
+}
